@@ -1,6 +1,24 @@
-# EDK2 for Asus Zenfone Max Pro M1
+# EDK2 for Motorola One Action
 
 Based on fxsheep's port for Xiaomi Mi 6 (sagit) (https://github.com/fxsheep/edk2-sagit/).
+
+## Device specifications
+
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Octa-core 2.2 GHz
+CHIPSET | Samsung Exynos 9609
+GPU     | Mali G72 MP3
+Memory  | 4GB
+Shipped Android Version | 9.0 (Pie)
+Storage | 128GB
+Battery | 3500 mAh
+Dimensions | 160.1 x 71.2 x 9.2 mm
+Display | 1080 x 2520 pixels, 6.3" LTPS IPS LCD
+Rear Camera  | 12 MP (f/1.8) + 16 MP (f/2.2) + 5 MP (f/2.2)
+Front Camera | 12 MP (f/2.0)
+
+![Device Picture](https://fdn2.gsmarena.com/vv/pics/motorola/motorola-one-action-aqua-teal-1.jpg)
 
 ## Status 
 
